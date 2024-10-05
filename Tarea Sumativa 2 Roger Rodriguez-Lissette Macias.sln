@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea Sumativa 2 Roger Rodriguez-Lissette Macias", "Tarea Sumativa 2 Roger Rodriguez-Lissette Macias.csproj", "{DBE86896-4FBF-4F0C-B7DA-D850A39E0C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE86896-4FBF-4F0C-B7DA-D850A39E0C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE86896-4FBF-4F0C-B7DA-D850A39E0C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE86896-4FBF-4F0C-B7DA-D850A39E0C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE86896-4FBF-4F0C-B7DA-D850A39E0C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5761681E-D644-4047-A6F0-2C92F8FC47EC}
+	EndGlobalSection
+EndGlobal
